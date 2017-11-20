@@ -1,7 +1,4 @@
-# hello-python
+# good-bye-python
 
-
-ma hamatzav 
-
-
-
+  *first time using github on google campus tel-aviv
+  ma hamatzav 
